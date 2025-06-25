@@ -13,7 +13,7 @@
 - [如何贡献](#如何贡献)
 
 ## 项目介绍
-‌[Apache OpenMetadata‌](https://github.com/open-metadata/OpenMetadata) 是一个统一的元数据平台，用于数据发现，数据可观察性和数据治理，由中央元数据存储库，深入的列级血统来提供支撑。Open Metadata基于开放元数据标准和API，支持各种数据服务的连接器，可实现端到端元数据管理，让您自由释放数据资产的价值。
+‌[Apache OpenMetadata‌](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191777593155584) 是一个统一的元数据平台，用于数据发现，数据可观察性和数据治理，由中央元数据存储库，深入的列级血统来提供支撑。Open Metadata基于开放元数据标准和API，支持各种数据服务的连接器，可实现端到端元数据管理，让您自由释放数据资产的价值。
 
 **核心特性：**
 1. 数据协作- 通过活动源获取事件通知。使用 webhook 发送警报和通知。添加公告以通知团队即将发生的更改。添加任务以请求描述或术语表术语批准工作流程。添加用户提及并使用对话线程进行协作。
@@ -27,7 +27,7 @@
 ![](./images/img001.png)
 
 
-本项目提供的开源镜像商品 [**OpenMetadata元数据管理平台**](https://marketplace.huaweicloud.com)，已预先安装 OpenMetadata 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**OpenMetadata元数据管理平台**](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191777593155584)，已预先安装 OpenMetadata 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
@@ -39,10 +39,10 @@
 
 ## 镜像说明
 
-| 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
-|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [OpenMetadata2.1_HCE2.0](https://marketplace.huaweicloud.com) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
-| [OpenMetadata2.1_Ubuntu24.04](https://marketplace.huaweicloud.com) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署              |  |
+| 镜像规格                                                                                                                                 | 特性说明                                         | 备注 |
+|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------| --- |
+| [OpenMetadata2.1_HCE2.0](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191777593155584) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [OpenMetadata2.1_Ubuntu24.04](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191777593155584) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署         |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/OpenMetadata-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
