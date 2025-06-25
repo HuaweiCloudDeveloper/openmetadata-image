@@ -13,7 +13,7 @@
 - [How to Contribute](#how-to-contribute)
 
 ## Repository Introduction  
-[Apache OpenMetadata](https://marketplace.huaweicloud.com/intl/hidden/contents/93c2863a-2fd6-4134-ae62-43e523fe1ffb) is a unified metadata platform used for data discovery, observability, and governance, supported by a central metadata repository and deep column level lineage. Open Metadata is based on open metadata standards and APIs, supporting connectors for various data services and enabling end-to-end metadata management.
+[Apache OpenMetadata](https://github.com/open-metadata/OpenMetadata) is a unified metadata platform used for data discovery, observability, and governance, supported by a central metadata repository and deep column level lineage. Open Metadata is based on open metadata standards and APIs, supporting connectors for various data services and enabling end-to-end metadata management.
 
 **Core Features:**
 1. Data Collaboration - Obtain event notifications through activity sources. Use webhooks to send alerts and notifications. Add an announcement to notify the team of upcoming changes. Add tasks to request description or terminology approval workflow. Add user mentions and collaborate using conversation threads.
