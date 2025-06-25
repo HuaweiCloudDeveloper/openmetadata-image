@@ -38,10 +38,10 @@ This project offers pre-configured [**OpenMetadata metadata management platform*
 
 ## Image Specifications  
 
-| Image Version                                                                                                      | Description                                                    | Notes |  
-|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------|  
+| Image Version                                                                                                      | Description                                              | Notes |  
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------|  
 | [OpenMetadata2.1_HCE2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/93c2863a-2fd6-4134-ae62-43e523fe1ffb) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [OpenMetadata2.1_Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/93c2863a-2fd6-4134-ae62-43e523fe1ffb) | Deployed on Kunpeng servers with Ubuntu24.04 64bit 64bit   |  |  
+| [OpenMetadata2.1_Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/93c2863a-2fd6-4134-ae62-43e523fe1ffb) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/OpenMetadata-image/issues)
