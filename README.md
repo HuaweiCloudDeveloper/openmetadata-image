@@ -13,7 +13,7 @@
 - [How to Contribute](#how-to-contribute)
 
 ## Repository Introduction  
-[Apache OpenMetadata](https://github.com/open-metadata/OpenMetadata) is a unified metadata platform used for data discovery, observability, and governance, supported by a central metadata repository and deep column level lineage. Open Metadata is based on open metadata standards and APIs, supporting connectors for various data services and enabling end-to-end metadata management.
+[OpenMetadata](https://github.com/open-metadata/OpenMetadata) is a unified metadata platform used for data discovery, observability, and governance, supported by a central metadata repository and deep column level lineage. Open Metadata is based on open metadata standards and APIs, supporting connectors for various data services and enabling end-to-end metadata management.
 
 **Core Features:**
 1. Data Collaboration - Obtain event notifications through activity sources. Use webhooks to send alerts and notifications. Add an announcement to notify the team of upcoming changes. Add tasks to request description or terminology approval workflow. Add user mentions and collaborate using conversation threads.
@@ -40,8 +40,8 @@ This project offers pre-configured [**OpenMetadata metadata management platform*
 
 | Image Version                                                                                                      | Description                                              | Notes |  
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------|  
-| [OpenMetadata2.1_HCE2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/93c2863a-2fd6-4134-ae62-43e523fe1ffb) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [OpenMetadata2.1_Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/93c2863a-2fd6-4134-ae62-43e523fe1ffb) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
+| [OpenMetadata1.7_HCE2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/93c2863a-2fd6-4134-ae62-43e523fe1ffb) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [OpenMetadata1.7_Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/93c2863a-2fd6-4134-ae62-43e523fe1ffb) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/OpenMetadata-image/issues)
