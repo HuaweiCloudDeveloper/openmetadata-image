@@ -73,12 +73,12 @@ docker-compose up -d
 docker compose up -d
 
 ## 访问 open-metadata 管理页面
-地址： http://*.*.*.*:8585  
+地址： http://x.x.x.x:8585  
 用户： admin@open-metadata.org  
 密码： admin  
 
 ## 其他 airflow 页面(open-metadata 依赖 airflow 同步元数据)
-地址： http://*.*.*.*:8080  
+地址： http://x.x.x.x:8080  
 用户： admin  
 密码： admin  
 
