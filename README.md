@@ -40,8 +40,8 @@ This project offers pre-configured [**OpenMetadata metadata management platform*
 
 | Image Version                                                                                                      | Description                                              | Notes |  
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------|  
-| [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/OpenMetadata1.7-kunpeng-v1.0) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/OpenMetadata1.7-kunpeng-v1.0) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
+| [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/OpenMetadata-image/tree/OpenMetadata1.7-kunpeng-v1.0) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/OpenMetadata-image/tree/OpenMetadata1.7-kunpeng-v1.0) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/OpenMetadata-image/issues)
