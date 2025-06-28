@@ -41,8 +41,8 @@
 
 | 镜像规格                                                                                                                                                      | 特性说明                                         | 备注 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------| --- |
-| [OpenMetadata1.7_HCE2.0](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191777593155584)      | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
-| [OpenMetadata1.7_Ubuntu24.04](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191777593155584) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署         |  |
+| [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/OpenMetadata1.7-kunpeng-v1.0)      | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/OpenMetadata1.7-kunpeng-v1.0) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署         |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/OpenMetadata-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
