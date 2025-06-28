@@ -39,9 +39,9 @@
 
 ## 镜像说明
 
-| 镜像规格                                                                                                                                                      | 特性说明                                         | 备注 |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------| --- |
-| [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/openmetadata-image/tree/OpenMetadata1.7-kunpeng-v1.0)      | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| 镜像规格                                                                                                                                                 | 特性说明                                         | 备注 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------| --- |
+| [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/openmetadata-image/tree/OpenMetadata1.7-kunpeng-v1.0) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 | [OpenMetadata1.7-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/openmetadata-image/tree/OpenMetadata1.7-kunpeng-v1.0) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署         |  |
 
 ## 获取帮助
