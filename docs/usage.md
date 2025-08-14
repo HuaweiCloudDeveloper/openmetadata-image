@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[OpenMetadata元数据平台](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191798531158016)
+[OpenMetadata元数据平台](https://marketplace.huaweicloud.com/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191793443430400)
 
 # 二、商品说明
 
