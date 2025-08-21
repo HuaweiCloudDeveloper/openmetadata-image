@@ -27,7 +27,7 @@
 ![](./images/img001.png)
 
 
-本项目提供的开源镜像商品 [**OpenMetadata元数据管理平台**](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191777593155584)，已预先安装 OpenMetadata 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**OpenMetadata元数据管理平台**](https://marketplace.huaweicloud.com/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191793443430400)，已预先安装 OpenMetadata 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
