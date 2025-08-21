@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[OpenMetadata元数据管理平台](https://marketplace.huaweicloud.com/hidden/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191798531158016)
+- 镜像商品：[OpenMetadata元数据管理平台](https://marketplace.huaweicloud.com/contents/f5371015-bb64-4f24-ae68-c8718967e232#productid=OFFI1144191793443430400)
 - 镜像规格：OpenMetadata1.7-kunpeng-v1.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：Kunpeng-ARM
